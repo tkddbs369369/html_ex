@@ -1,0 +1,16 @@
+table{
+    width: 900px;
+    height: 150px;
+
+    margin: auto;
+    border-collapse: collapse;
+}
+
+
+td{
+    width: 150;
+    text-align: center;
+    border: 2px solid salmon;
+    background: matenta;
+
+}
